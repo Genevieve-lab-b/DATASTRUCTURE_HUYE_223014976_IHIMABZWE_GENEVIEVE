@@ -29,7 +29,7 @@ if Number>0:
         print("zero")
         
     else: 
-      print("negative")
+      print("negatives")
       
      
 fruits=('orange','banana','apple')  
