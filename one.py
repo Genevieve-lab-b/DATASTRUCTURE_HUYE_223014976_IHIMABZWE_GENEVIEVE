@@ -16,7 +16,6 @@ print(type(age))
 
 
 age=input("enter your age:")
-age=float(age)
 print(f"you will be {age} next year!")
 
 
